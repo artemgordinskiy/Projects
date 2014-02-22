@@ -1,48 +1,7 @@
 Mega Project List
 ========
 
-A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has it's own folder.
-
-#### [RECOGNITION](https://github.com/thekarangoel/Projects/tree/master/RECOGNITION)
-
-Ever since this repo was created, it has been in the top list on GH. Be it the daily or weekly list! This repo is in the top 5 on GitHub on [July 14 2013](https://raw.github.com/thekarangoel/Projects/master/RECOGNITION/top5-2013-07-14.png). (And again on [July 22, 2013](https://raw.github.com/thekarangoel/Projects/master/RECOGNITION/top5-2013-07-22%2013_10_30.png), and again on [July 23, 2013](https://raw.github.com/thekarangoel/Projects/master/RECOGNITION/top5-2013-07-23.png).) And on [weekly](https://raw.github.com/thekarangoel/Projects/master/RECOGNITION/top5-weekly-2013-07-22.png) [list](https://github.com/thekarangoel/Projects/blob/master/RECOGNITION/top5-weekly-2013-07-23.png) during the week of July 2013. In the last week of July, *Projects* was in the monthly top list on GH.
-
-![July 25, 2013](https://raw.github.com/thekarangoel/Projects/master/RECOGNITION/top5-monthly-2013-07-25.png)
-
-===============================
-
-### [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
-
-See ways of [contributing](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md) to this repo. You can contribute solutions (will be published in this [repo](https://github.com/thekarangoel/Projects-Solutions)) to existing problems, add new projects or remove existing ones. Make sure you follow all instructions properly.
-
-================================
-
-### [Solutions](https://github.com/thekarangoel/Projects-Solutions)
-
-You can find implementations of these projects in many other languages by other users in this [repo](https://github.com/thekarangoel/Projects-Solutions).
-
-================================
-
-### [Donate](https://www.gittip.com/Karan%20Goel/)
-
-If you love and use *Projects*, please consider [donating via gittip](https://www.gittip.com/Karan%20Goel/). Any support is appreciated!
-
-================================
-
-Some details about this repo:
-
-* I will use Python to solve these. Why? Because I want to learn the language quickly.
-* I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
-* The projects will not be made in the order posted.
-* I may not be able to complete all of them. 
-* My method of solving them may not be the best. If you do not like my algorithm(s), please add a comment for the file/commit or open an issue, and I'll try to improve.
-
-I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
-
-To get started, fork this repo, delete this README and rename [*README-scratch.md*](https://github.com/thekarangoel/Projects/blob/master/README-scratch.md) to *README.md*.
-
-===============================
+I will try to complete (or at least take a crack) at these projects. I want to do this to improve my PHP & JavaScript skills.
 
 Numbers
 ---------
@@ -139,7 +98,7 @@ Text
 
 **Random Gift Suggestions** - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. *Optional: Suggest places you can get it (link to Amazon page?).*
 
-**Markdown to HTML Converter** - Converts Markdown formatted text into HTML files. Implement basic tags like `p`, `strong`, `em` etc. *Optional: Implement all tags from [Markdown Syntax Docs](http://daringfireball.net/projects/markdown/syntax).* 
+**Markdown to HTML Converter** - Converts Markdown formatted text into HTML files. Implement basic tags like `p`, `strong`, `em` etc. *Optional: Implement all tags from [Markdown Syntax Docs](http://daringfireball.net/projects/markdown/syntax).*
 
 **Regex Query Tool** - A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
