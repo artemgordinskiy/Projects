@@ -38,4 +38,7 @@ nosetests.xml
 .komodotools/
 *.komodoproject
 
+# PHPStorm
+.idea
+
 .DS_Store
